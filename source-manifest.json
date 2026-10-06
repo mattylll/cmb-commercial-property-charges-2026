@@ -1,0 +1,529 @@
+{
+  "research_id": "CMB-CH-2026-H1-01",
+  "retrieved": "2026-10-06",
+  "source_snapshot": "2026-10-01",
+  "observations": "H1 2025 and H1 2026",
+  "source_policy": "Only charge aggregates already exposed in the linked public CSVs are included. No private repository source, raw records, account data or planning supplier extracts.",
+  "sources": [
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-bedfordshire.csv",
+      "sha256": "767142dc176e27ff91656515c65002c4798e7c8746b02d9c16d050a768ae95ce",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-berkshire.csv",
+      "sha256": "568f7c95abafa09cb37bb818b98d2d4798044b29804f10707113feb17c8885e4",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-bristol.csv",
+      "sha256": "4ad1848616f79a74002ed217e9874d4abaccdcdd383ae97169531542f30bf405",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-buckinghamshire.csv",
+      "sha256": "c2fbdbd0cf1f6522b74bee759c87f4b33f308405773129d35a9bc7f5b9fb019b",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-cambridgeshire.csv",
+      "sha256": "73310cce3ff0e6aaff27312a6fa63cd4223410abe7c5e417391efa735f5b2383",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-cheshire.csv",
+      "sha256": "b821ec2ff8f40146e67fc3193f88760b6d7be8419737dca21b1b8ed05b2dc7a6",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-cornwall.csv",
+      "sha256": "0348f24b0a4ef69c4f918da795272cf75fbd9d7f8c532f17cdce1f17eafbf9a3",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-county-durham.csv",
+      "sha256": "7657b02956a6e367f90891f7550ffc5a79d9342a8da4287cb1b605bd6a41c5fd",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-cumbria.csv",
+      "sha256": "ddf79d7862c7f17e088f2222c14ae4358e6e2e8c4a5ad20ee53f495e39656587",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-derbyshire.csv",
+      "sha256": "dd2b92a62c0081ea834c87f994cbf5179dc0fee0143086fc24f1a00093ba2ce6",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-devon.csv",
+      "sha256": "d0fc604f07dc6e92fe0dfd77044373b340a9b026ad6bbebc82b5aea5d8a9f7dc",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-dorset.csv",
+      "sha256": "7ba5aed260057e2c70f2f2449c5c0a6928b5da9df930d759726d7fc0316319b7",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-east-riding-of-yorkshire.csv",
+      "sha256": "d49d0575320653fb273e7ad3fd7c312f372b20aba9bf8a5ca99e63476e26ce08",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-east-sussex.csv",
+      "sha256": "cc67beab2b40f3b7a1e4e4b61e3f0d95f6c732d473033a9045cceec752b902e7",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-essex.csv",
+      "sha256": "82b8eb2d5032cc5f46670d35a69af88cd02adf51b11b95632ebe6fd6564e905c",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-gloucestershire.csv",
+      "sha256": "9cbcc081769710b2907461fd181f2683b8c8e6887244269a9cec7d44a1ad3203",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-greater-london.csv",
+      "sha256": "5bf3691501b5d0ea241f244278a237e84410bb1189a0ba66869eee10436a7112",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-greater-manchester.csv",
+      "sha256": "b760b3c4b639ccb15d9fdf7115c00c8797710f2102d1e4fa6a3cdb1cfac7467c",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-hampshire.csv",
+      "sha256": "20284d51ab00b10d85b8e48b7d5b5df112a031c544df57eb4af0a089028a565a",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-hertfordshire.csv",
+      "sha256": "9d913b89ae39355a34247e01c2c9016cc253542d8c3474c1de752d2d5989ef5b",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-kent.csv",
+      "sha256": "30eb8a71d5362162aa6fe558c3cce08da7bd81cbbee7dd0699687a5ae82134dd",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-lancashire.csv",
+      "sha256": "7b96d8230f06eeeb6963b2ca4aef47304952b56eca6e710460d7c49ca12bb11d",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-leicestershire.csv",
+      "sha256": "aae6a1e640e363b414e9ad7ec1ffaa06b895ff3ddb213e2c134806c449a1c172",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-lincolnshire.csv",
+      "sha256": "d04e9cbc326c1a183431825f047bab3de9f7c3a633df71dcbda4aeb50940ad9f",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-merseyside.csv",
+      "sha256": "b21de295b2fae375244ce74ce2b82f18768a21f2636228db31b9a631f35e4912",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-norfolk.csv",
+      "sha256": "a48f0bae6d656c729ef06b2102d4afce6f9bd443b64576560c09bb5ecf2bc712",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-north-yorkshire.csv",
+      "sha256": "891fe799a9ba49207681827f025fad029b91651b0ba944c734bfa8710cfdbf5b",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-northamptonshire.csv",
+      "sha256": "5aaba678283d1cb5ba2194701238fb182574c727ce5ac3f68ab5afed4a5da05f",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-northumberland.csv",
+      "sha256": "bcea64ddf976d2473b6db87b6c09d35e972fd82e788d2766775cb5f59bed4c3e",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-nottinghamshire.csv",
+      "sha256": "c0df53e19514a354a33c733a1d6539282a2f4bf0e6fbefb0385c0295e292319a",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-oxfordshire.csv",
+      "sha256": "9dda9a652f5993133ee79f39b6320faa1e3b077d2636b5d534e04577c3110f79",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-shropshire.csv",
+      "sha256": "148adbb0df7b900160de384276a15569e041d3d40b4d8f5f64e34310c9b38a18",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-somerset.csv",
+      "sha256": "c7ae6d840618662f83e54bff140e6bac3c5adba7374d8fbe19e00ab00f3eff8e",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-south-yorkshire.csv",
+      "sha256": "4ce6f1ab80991254987ba04225f7a4138e4f8d8c93ecca8b77442589fc857456",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-staffordshire.csv",
+      "sha256": "38a48450a8993f9fbb4b47cb1b52bc8c9e339ddf4c43bee05e3edf1e92aa3592",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-suffolk.csv",
+      "sha256": "34d66a17bf3144c7dad4e43c665c797a96a0a01e90c538adbe6cafdf2a8dc60b",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-surrey.csv",
+      "sha256": "2c36331bb7d7845eba08db986bddfb9a72375c6e50d5cf8f2f34f6d5cd6b6aa8",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-tyne-and-wear.csv",
+      "sha256": "b7834217ae7db2f43e88f46e7b73dc02aebcb11e6e221e808b99f0fdfeb19f18",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-warwickshire.csv",
+      "sha256": "a07ce10c3cc5f78de715b4834dbc3e0b06e0712ae1dbf96b46ee6e9f7f872d25",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-west-midlands.csv",
+      "sha256": "70bb7cd52ee98022dd8b23fda43086294e2f3b1b57353e45ed5812883f6e6861",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-west-sussex.csv",
+      "sha256": "d47b0dad6116c89e33c59bf282f0a711baebd265b78c96cd854cf878eb413876",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-west-yorkshire.csv",
+      "sha256": "3a461f39499f22e028d98898f44e63ab1a9b54c300c2a491c2806a4e23248aac",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-wiltshire.csv",
+      "sha256": "264069d3e50d338f16a58576ce835332bee78510e154963c91a1144d18d70c18",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/county-worcestershire.csv",
+      "sha256": "e49fd4c6be3fe7a9e8f4f274dee7d6b172fec7b1a01e47aec77191c7da459cc4",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/england-and-wales.csv",
+      "sha256": "20ae80924baaeaf62603b81e1f02e6ba8530df102a109a575b6125fc7fc5f44d",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/east-of-england.csv",
+      "sha256": "a8cef7943888113d39b58ea4d8acb11641ef019a3c037ecb461c342aa0ea409a",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/london-and-south-east.csv",
+      "sha256": "20d1e6387e8e3ae46bbb9f7bea20bc136a9a1d2412a1cf8d1aa8fd2e0f688441",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/midlands.csv",
+      "sha256": "e3542164245dcf23645a1d5f15a1165fe83ec6b6a5a854a8c1a10ed552f87cc2",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/north-east-and-yorkshire.csv",
+      "sha256": "45e64f8faeb7801f8a5b4ba6720f7866d6abde5075690e8069d5fd321f12ea8a",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/north-west.csv",
+      "sha256": "bd6a16353162c5a3337148f6756ad12dbb9110d94129554d7d8b55e025ae284d",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/south-west.csv",
+      "sha256": "b25cf16ae7397e05543ff1392d8db8d4003d6932ff861842fa961f0938a3063c",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    },
+    {
+      "url": "https://commercialmortgagesbroker.co.uk/data/commercial-reports/2026-q3/wales.csv",
+      "sha256": "09e5b93c3d9f11052e93625535b122f7e52b9532c4eeeeb2a9171c65519b6b3e",
+      "retrieved": "2026-10-06",
+      "fields": [
+        "h1PrevCharges",
+        "h1Charges",
+        "h1Change"
+      ]
+    }
+  ]
+}
