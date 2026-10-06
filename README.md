@@ -37,6 +37,8 @@ The source release also contains sales and planning figures. They are deliberate
 
 ## Files and reproduction
 
+The [interactive regional chart](https://www.datawrapper.de/_/3MZp6/) is a visual adaptation of this same study. It links back to the national report and the underlying regional counts. It is not an independent second source.
+
 - `charge-counts.csv`: 52 observations — one national benchmark, seven regions and 44 county areas, with exact report and CSV links.
 - `regional-contributions.csv`: seven regions ranked by percentage change, with absolute differences.
 - `datawrapper-regions.csv`: the seven-row input for the chart adaptation.
